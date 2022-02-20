@@ -1,9 +1,9 @@
 <html>
-<main>
     <head>
         <title>Videosphere</title>
     </head>
-     <body>
+    <main>
+    <body>
         <h1>SPACE TV</h1>
             <p>
                 <b>The Videosphere is a JVC CRT television that was shaped in the form of a space helmet.</b> It was first introduced in 1970 and was sold up until the early-1980s. It was popular for its modern design; the alarm clock base was an option, most units have a plain base
@@ -29,5 +29,5 @@
                 </video>
               </section>
     </body>
-  </main>
+    </main>
 </html>
